@@ -1,0 +1,14 @@
+Pillow==10.4.0
+fastapi==0.112.0
+uvicorn==0.30.5
+pydantic==2.8.2
+numpy
+google-generativeai
+googlemaps
+dnspython
+pymongo
+passlib
+python-jose
+motor
+python-multipart
+markdown
